@@ -1,10 +1,10 @@
-package com.code.BillMyCode;
+package com.BillMyCode.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BillMyCodeApplicationTests {
+class AppApplicationTests {
 
 	@Test
 	void contextLoads() {

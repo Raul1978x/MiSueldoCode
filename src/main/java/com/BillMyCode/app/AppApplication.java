@@ -1,13 +1,13 @@
-package com.code.BillMyCode;
+package com.BillMyCode.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BillMyCodeApplication {
+public class AppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BillMyCodeApplication.class, args);
+		SpringApplication.run(AppApplication.class, args);
 	}
 
 }
